@@ -2,22 +2,22 @@
 
 This is a port of theme originally published by Patrick Anderson on [vim scipts](https://www.vim.org/scripts/script.php?script_id=2549).
 
-# Description by original autor
+## Description by original autor
 
-## created by
+### created by
 
 Patrick Anderson
 
-## script type
+### script type
 
 color scheme
 
-## description
+### description
 
 I like Mustang.vim colour scheme (http://hcalves.deviantart.com/art/Mustang-Vim-Colorscheme-98974484).
 
 It was still to vivid for my eyes, so I modified it slightly.
 
-## install details
+### install details
 
 Copy to ~/.vim/colors
